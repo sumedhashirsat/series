@@ -1,5 +1,5 @@
 # series
 all new series
 
-gotham
+gotham,
 crown
